@@ -67,9 +67,32 @@ header {
 }
 .savio {
     text-align: center;
-    padding: 0 10em 10em
+    padding: 0 10em 10em;
+    background-color: #83764c;
+    
 }
 
 .savio p {
     padding: 10px;
+    font-size: 20px;
 }
+
+.savio h2 {
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+}
+
+.savio button {
+   width: 150px;
+   padding: 5px;
+}
+
+.savio img {
+    display: flex;
+    justify-content: center;
+}
+
+    
+    
+
