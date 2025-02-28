@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+   padding: 10px;
+   font-size: 20px;
+   background-color: #50232e;
+   color: orange;
+   
+}
+
+.Ivaldo {
+    text-align:center;
+    background-color: #f77c3e
+    
+}
+
+.Ivaldo p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Julia {
+    text-align: center;
+    padding: 200px;
+    background-image: url(restaurant-1837150_1280.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #7f4311;
+}
+.Julia button {
+    width: 250px;
+    padding: 30px;
+    background-color: rgba(128, 128, 128, 0.849);
+    color: white;
+    border-radius: 5px;
+
+}
+.Duda {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 230px;
+    background-color: #fce185;
+    
+}
+.Duda p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.Duda img {
+    width: 550px;
+}
+.irineu {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    background-color: #fce185;
+}
+.savio {
+    text-align: center;
+    padding: 0 10em 10em
+}
+
+.savio p {
+    padding: 10px;
+}
