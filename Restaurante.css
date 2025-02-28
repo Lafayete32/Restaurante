@@ -93,6 +93,36 @@ header {
     justify-content: center;
 }
 
+.Paulo {
+    background-color:#a2a384 ;
+    padding: 80px;
+    text-align: center;
     
+}
+    .Paulo button {
+        width: 200px;
+        padding: 20px;
+        
+    }
     
+    .Arnaldo {
+        padding: 20px;
+        text-align: center;
+        font-size: 30px;
+        background-color: #eac388;
 
+    }
+ .Jonas {
+    padding: 30px;
+ }
+
+ .Arnaldo footer {
+    font-size: 20px;
+    text-align: center;
+    padding: 80px;
+    gap: 310px;
+    
+ }
+ .Adolfo {
+    font-size: 20px;
+ }
