@@ -67,7 +67,7 @@ header {
 }
 .savio {
     text-align: center;
-    padding: 0 10em 10em;
+    padding: 0 10em 2em;
     background-color: #83764c;
     
 }
@@ -85,7 +85,7 @@ header {
 
 .savio button {
    width: 150px;
-   padding: 5px;
+   padding: 5px 5px 1px;
 }
 
 .savio img {
@@ -106,7 +106,7 @@ header {
     }
     
     .Arnaldo {
-        padding: 20px;
+        padding: 10px 0px 0px;
         text-align: center;
         font-size: 30px;
         background-color: #eac388;
@@ -116,13 +116,20 @@ header {
     padding: 30px;
  }
 
- .Arnaldo footer {
+ footer {
     font-size: 20px;
     text-align: center;
-    padding: 80px;
+    padding: 40px;
     gap: 310px;
-    
+    background-color: #eac388;
  }
  .Adolfo {
     font-size: 20px;
+ }
+
+ .div-savio  {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    
  }
