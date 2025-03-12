@@ -9,6 +9,8 @@ header {
    font-size: 20px;
    background-color: #50232e;
    color: orange;
+   align-items: center;
+   gap: 50px;
    
 }
 
@@ -131,6 +133,33 @@ header {
  .div-savio  {
     display: flex;
     justify-content: space-evenly;
+    gap: 10px;
     padding: 30px;
     
+    
  }
+ 
+ .div-savio img {
+    width: 250px;
+    height: 250px;
+ }
+
+ .list-menu ul {
+display: flex;
+justify-content: center;
+gap: 20px;
+
+
+
+ }
+
+ .list-menu ul li {
+list-style: none;
+
+ }
+
+.list-menu ul li a {
+    text-decoration: none;
+    color: orange
+}
+
